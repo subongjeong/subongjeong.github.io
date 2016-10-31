@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "마크다운 글쓰기"
+date:   2016-11-01 01:49:00 +0900
+categories: script markdown
+---
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
